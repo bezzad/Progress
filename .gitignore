@@ -398,4 +398,5 @@ FodyWeavers.xsd
 *.sln.iml
 
 # Rider filse
-.[rR]ider/*
+.idea/
+
